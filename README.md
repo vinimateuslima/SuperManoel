@@ -4,8 +4,9 @@ Este projeto é um jogo feito em html baseado em Super Mario com o tema Manoel G
 
 ## 🛠️ Construído com
 
-* [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - Kit de Desenvolvimento
-* [VS Code](https://code.visualstudio.com/) - IDE
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![Javascript](https://img.shields.io/badge/Javascript-000?style=for-the-badge&logo=javascript)
 
 ## ✒️ Autores
 
