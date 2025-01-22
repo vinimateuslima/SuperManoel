@@ -17,8 +17,6 @@ Este projeto é um jogo feito em html baseado em Super Mario com o tema Manoel G
 
 Este projeto está sob a licença [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) - veja o arquivo LICENSE.md para detalhes.
 
-### Agradeço ao professor pela dedicação, quebrei a cabeça mas saiu kk
-
 ## Conecte-se comigo
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/viniciusmateus_dev?tab=skills)
